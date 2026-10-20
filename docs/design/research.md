@@ -2,289 +2,308 @@
 
 ## 1. Competitive Analysis
 
-I looked at three websites that provide cybersecurity information or support: the FTC, CISA, and Norton.
+I looked at three websites that provide cybersecurity information or support: the Federal Trade Commission (FTC), the Cybersecurity and Infrastructure Security Agency (CISA), and Norton. These websites helped me identify features that could make CyberHelp useful for people who need simple technical information.
 
 ### Competitor 1: Federal Trade Commission (FTC)
 
-**What it does:**
-
-* Provides information about scams and cybersecurity problems.
-* Gives users steps to take when something goes wrong.
-* Covers topics such as phishing, hacked accounts, and tech support scams.
-
-**Interaction flow:**
-
-1. User searches for a problem.
-2. User opens an article.
-3. User reads information about the problem.
-4. User follows the recommended steps.
-
-**What CyberHelp can learn from it:**
-
-* Information should include clear steps.
-* Users should be able to quickly understand what to do next.
-* CyberHelp can organize problems into categories.
-
-### Competitor 2: CISA
+**Website:** https://consumer.ftc.gov/
 
 **What it does:**
 
-* Provides cybersecurity advice for the general public.
-* Covers topics such as software updates, passwords, and online safety.
-* Uses simple tips and guides.
+- Provides information about scams and cybersecurity problems.
+- Gives users steps to take when something goes wrong.
+- Covers topics such as phishing, hacked accounts, and tech support scams.
 
 **Interaction flow:**
 
-1. User visits the website.
-2. User chooses a security topic.
-3. User reads the advice.
-4. User follows the recommended action.
+1. The user searches for a problem or browses available information.
+2. The user opens an article about the problem.
+3. The user reads the explanation and warning signs.
+4. The user follows the recommended steps.
 
 **What CyberHelp can learn from it:**
 
-* Keep information simple.
-* Use topics that people can understand.
-* Give users practical actions.
+- Information should include clear steps that users can follow.
+- Users should be able to understand what to do next.
+- Organizing information into categories can make it easier to find relevant help.
+
+### Competitor 2: Cybersecurity and Infrastructure Security Agency (CISA)
+
+**Website:** https://www.cisa.gov/secure-our-world
+
+**What it does:**
+
+- Provides cybersecurity advice for the general public.
+- Covers topics such as software updates, passwords, and online safety.
+- Offers tips and guidance for protecting personal information and devices.
+
+**Interaction flow:**
+
+1. The user visits the website.
+2. The user chooses a security topic.
+3. The user reads the advice.
+4. The user follows the recommended actions.
+
+**What CyberHelp can learn from it:**
+
+- Information should be simple and easy to understand.
+- Topics should use clear names that make sense to beginners.
+- Advice should include practical actions users can take.
 
 ### Competitor 3: Norton
 
+**Website:** https://support.norton.com/
+
 **What it does:**
 
-* Provides cybersecurity information and technical support.
-* Has search and different help areas.
-* Provides information about scams, malware, passwords, and other security problems.
+- Provides cybersecurity information and technical support.
+- Offers search and different help categories.
+- Provides information about scams, malware, passwords, and other security problems.
 
 **Interaction flow:**
 
-1. User visits the support page.
-2. User searches for a problem or chooses a help topic.
-3. User reads the instructions.
-4. User follows the recommended steps.
+1. The user visits the support website.
+2. The user searches for a problem or chooses a help topic.
+3. The user reads the available instructions.
+4. The user follows the recommended steps.
 
 **What CyberHelp can learn from it:**
 
-* Search can be useful.
-* There are many different types of cybersecurity problems.
-* CyberHelp should avoid giving users too much information at once.
+- Search can be useful when users know what they are looking for.
+- Cybersecurity websites need to cover different types of problems.
+- Presenting information in manageable sections can help prevent users from feeling overwhelmed.
 
 ### Competitive Analysis Summary
 
-The three competitors provide:
+The three competitors provide useful cybersecurity information through articles, topics, search features, and instructions. However, CyberHelp can focus on keeping the experience simple for beginners by organizing common problems into categories and providing short explanations, warning signs, and recommended steps.
 
-* Categories or topics.
-* Search or browsing.
-* Explanations of problems.
-* Warning signs.
-* Recommended steps.
-
-CyberHelp can focus on making this information simpler and easier for beginners to understand.
+The main features I want CyberHelp to focus on are simple navigation, easy-to-understand information, and clear instructions for what users should do next.
 
 ---
 
-# 2. User Interviews / Survey
+## 2. User Interviews and Survey
 
-I asked two people about how they currently deal with cybersecurity and computer problems.
+I used three questions to explore how people currently find help with cybersecurity and computer problems, what makes finding help difficult, and what features they would want in a website like CyberHelp.
 
 ### Questions
 
-**Question 1 — Current behavior**
+**Question 1 — Current Behavior**
 
 When you have a cybersecurity or computer problem, what do you normally do to find help?
 
-**Question 2 — Pain points**
+**Question 2 — Pain Points**
 
 What is the most difficult or frustrating part about finding help?
 
-**Question 3 — Desired features**
+**Question 3 — Desired Features**
 
 What would you want a website like CyberHelp to have that would make finding help easier?
 
 ### Person 1 — Layne
 
-**Question 1 — Current behavior**
+**Question 1 — Current Behavior**
 
 Usually I just Google it or ask somebody I know who is better with computers. Sometimes I'll watch a YouTube video if I can't figure it out.
 
-**Question 2 — Pain points**
+**Question 2 — Pain Points**
 
 A lot of the websites use words I don't really understand. Sometimes there are a bunch of different answers and I don't know which one to trust.
 
-**Question 3 — Desired features**
+**Question 3 — Desired Features**
 
 I'd want it to be simple and tell me what the problem probably is and what I should do. It would also be nice if I didn't have to read a huge article.
 
 ### Person 2 — Devin
 
-**Question 1 — Current behavior**
+**Question 1 — Current Behavior**
 
 I usually search online or ask a friend or family member. If it's something with my computer, sometimes I'll just take it to somebody who knows more about computers.
 
-**Question 2 — Pain points**
+**Question 2 — Pain Points**
 
 It's hard to know if the information online is actually right. Some websites make things sound more complicated than they need to be.
 
-**Question 3 — Desired features**
+**Question 3 — Desired Features**
 
 I'd like to be able to pick what kind of problem I'm having and then see the answer. Having steps to follow would be helpful too.
 
 ### User Research Findings
 
-**How people currently find help:**
+**How people currently find help**
 
-People usually search online, watch videos, or ask friends and family.
+The responses indicate that people may search online, watch videos, or ask friends and family when they have computer or cybersecurity problems.
 
-**Main problems people have:**
+**Main problems people experience**
 
-* Technical information can be confusing.
-* There can be too many different answers.
-* It can be hard to know which information to trust.
+- Technical information can be confusing.
+- Different websites can provide different answers.
+- It can be difficult to know which information to trust.
+- Long articles can make it harder to find the information someone needs.
 
-**Features people want:**
+**Features people want**
 
-* Simple explanations.
-* Organized topics.
-* Clear steps to follow.
+- Simple explanations.
+- Organized categories and topics.
+- Clear steps to follow.
+- Information that is easy to find and understand.
 
-**Changes this suggests for CyberHelp:**
+**Changes suggested for CyberHelp**
 
-CyberHelp should keep information simple, organize problems into categories, and provide clear steps.
+CyberHelp should keep explanations simple, organize problems into categories, and provide clear recommended steps. The website should also use reliable sources so users have a better idea of where the information comes from.
 
 ---
 
-# 3. Technical Feasibility Check
+## 3. Technical Feasibility Check
 
-CyberHelp is technically feasible because the first version will be a simple website.
+CyberHelp is technically feasible because the first version will be a simple website with a limited number of features.
 
 ### Technology
 
-The application can use:
+The application can use the following technologies:
 
-* HTML for the website structure.
-* CSS for the design.
-* JavaScript for simple interactions.
+- **HTML:** Provides the structure and content of the website.
+- **CSS:** Controls the layout, colors, spacing, and overall appearance.
+- **JavaScript:** Allows users to interact with categories, topics, and navigation buttons.
+
+These technologies are sufficient for creating the initial prototype without requiring a complicated backend.
 
 ### Hosting
 
-The website can be hosted using GitHub Pages.
+The website can be hosted using GitHub Pages. This would allow the project to be published from the GitHub repository without requiring a separate application server.
 
 ### Features That Are Feasible
 
-The following features should be simple enough to build:
+The following features should be manageable within the course timeframe:
 
-* Category buttons.
-* Topic buttons.
-* Information pages.
-* Back buttons.
-* Basic search if needed.
-* Responsive design.
-* Basic accessibility features.
+- A homepage with help categories.
+- Category and topic selection.
+- Information about common problems.
+- Warning signs and recommended steps.
+- Back buttons and basic navigation.
+- Helpful messages when information is unavailable.
+- Responsive design for different screen sizes.
+- Basic accessibility features.
 
-### Features Not Needed
+A search bar could be added later if users need another way to find information.
 
-The first version does not need:
+### Features Not Needed for the First Version
 
-* User accounts.
-* A database.
-* Live cybersecurity scanning.
-* Automatic malware detection.
-* Payments.
-* Passwords.
-* Remote computer access.
+The initial version does not need:
+
+- User accounts.
+- A database.
+- Live cybersecurity scanning.
+- Automatic malware detection.
+- Payments or subscriptions.
+- Password collection.
+- Remote computer access.
+
+Leaving out these features will keep the project manageable and reduce unnecessary complexity.
 
 ### Technical Conclusion
 
-CyberHelp can be built as a simple website using HTML, CSS, and JavaScript. Keeping the first version small will make it easier to complete within the course timeframe.
+CyberHelp can be built as a simple website using HTML, CSS, and JavaScript. GitHub Pages can be used for hosting, and the initial version can focus on providing organized information and basic navigation. Keeping the project small will make it easier to complete and test within the course timeframe.
 
 ---
 
-# 4. Summary of Research Findings
+## 4. Summary of Research Findings
 
-The research shows that there are already many websites with cybersecurity information. CyberHelp can focus on making this information easier for beginners to find and understand.
+The competitive analysis shows that existing websites already provide useful cybersecurity information. CyberHelp can focus on making common information easier for beginners to find and understand.
 
-The research supports:
+The user research suggests that people may struggle with complicated explanations, conflicting information, and finding clear instructions.
 
-* Using categories to organize information.
-* Keeping explanations short and simple.
-* Showing warning signs.
-* Providing recommended steps.
-* Making navigation simple.
-* Avoiding unnecessary features.
-* Using reliable sources.
+Based on these findings, CyberHelp should:
 
-The user research also suggests that users want simple information and clear steps instead of long or complicated explanations.
+- Use categories to organize information.
+- Keep explanations short and simple.
+- Include common warning signs.
+- Provide clearly labeled recommended steps.
+- Make navigation easy to understand.
+- Use reliable sources for cybersecurity guidance.
+- Avoid unnecessary features in the first version.
+
+These findings support the original idea of creating one simple place where users can find help with common cybersecurity and technical problems.
 
 ---
 
-# 5. Prototype
+## 5. Prototype
 
-## Prototype Goal
+### Prototype Goal
 
-The prototype will test the main CyberHelp interaction:
+The goal of the prototype is to test whether users can move through CyberHelp and find useful information about a cybersecurity problem.
+
+The main interaction flow is:
 
 **Home → Category → Topic → Problem Information → Recommended Steps**
 
-The prototype only needs to show how a user would move through the application.
-
-## Prototype Screens
+The prototype focuses on the basic user experience rather than advanced functionality.
 
 ### Screen 1 — Home
 
-The home page will include:
+The homepage introduces CyberHelp and allows users to choose a category.
 
-**CyberHelp**
+**Title:** CyberHelp
 
-"Find help for common cybersecurity and technical problems."
+**Description:** Find help for common cybersecurity and technical problems.
 
-Categories:
+**Categories:**
 
-* Scams & Phishing
-* Account Security
-* Computer Problems
-* Online Safety
+- Scams & Phishing
+- Account Security
+- Computer Problems
+- Online Safety
+
+Each category should have a clear name and, where appropriate, a short description.
 
 ### Screen 2 — Category
 
-**Scams & Phishing**
+The Scams & Phishing category contains topics related to suspicious messages and scams.
 
-* Phishing Emails
-* Scam Text Messages
-* Tech Support Scams
+**Topics:**
 
-The user selects a topic.
+- Phishing Emails
+- Scam Text Messages
+- Tech Support Scams
 
-### Screen 3 — Topic
+The user selects a topic to learn more about the problem.
 
-**Phishing Emails**
+### Screen 3 — Problem Information
+
+**Topic:** Phishing Emails
 
 **What is it?**
 
-A phishing email is a message designed to trick you into clicking a link or giving away personal information.
+A phishing email is a message designed to trick someone into clicking a link, opening an attachment, or sharing personal information.
 
 **Warning Signs:**
 
-* Unexpected message
-* Urgent request
-* Suspicious link
-* Request for personal information
+- An unexpected message.
+- An urgent request or threat.
+- A suspicious link.
+- A request for personal or financial information.
+
+The information should be presented in short sections so users can find the details they need without reading a long article.
 
 ### Screen 4 — Recommended Steps
 
-**What should I do?**
+**Heading:** What Should I Do?
 
-1. Do not click suspicious links.
-2. Do not provide personal information.
-3. Contact the company using a website or phone number you know is real.
-4. Report the message if necessary.
+1. Do not click suspicious links or open unexpected attachments.
+2. Do not provide passwords or personal information in response to a suspicious message.
+3. Contact the company through its official website or a phone number you already know is legitimate.
+4. Report or delete the message if appropriate.
 
-The page will also have a **Back** button.
+The page should include a clearly labeled Recommended Steps section and Back buttons so users can return to the category or homepage.
 
 ---
 
-# 6. Prototype Evaluation
+## 6. Prototype Evaluation
 
-The prototype was tested by me and two other people. The main goal was to see if users could find a cybersecurity problem and understand the recommended steps.
+The purpose of the evaluation is to determine whether users can find a cybersecurity topic, understand the information, and locate the recommended steps.
 
-## Observation 1
+The following observations document the initial evaluation. They should reflect what actually happened when the prototype was tested.
+
+### Observation 1
 
 **Person:** Layne
 
@@ -292,19 +311,17 @@ The prototype was tested by me and two other people. The main goal was to see if
 
 **What happened:**
 
-The user was able to find the "Scams & Phishing" category and then select "Phishing Emails."
+The user was able to find the Scams & Phishing category and then select Phishing Emails.
 
 **Problem noticed:**
 
-The user was not sure what category to choose at first.
+The user was not sure which category to choose at first.
 
 **Possible change:**
 
-Make the category names more specific and add a short description under each category.
+Use clearer category names and add a short description under each category.
 
----
-
-## Observation 2
+### Observation 2
 
 **Person:** Devin
 
@@ -312,84 +329,92 @@ Make the category names more specific and add a short description under each cat
 
 **What happened:**
 
-The user found the phishing email page but had to scroll to find the recommended steps.
+The user found the phishing email information but had to look through the page to find the recommended steps.
 
 **Problem noticed:**
 
-The recommended steps were not easy to find.
+The recommended steps were not easy to locate.
 
 **Possible change:**
 
-Put "Recommended Steps" in a clear section or heading.
+Put the instructions under a clearly labeled Recommended Steps heading.
 
----
+### My Observation
 
-## My Observation
-
-**Task tested:**
-
-Find a cybersecurity problem and read the recommended steps.
+**Task:** Find a cybersecurity problem and read the recommended steps.
 
 **What happened:**
 
-I was able to move from the home page to a category, then to a topic, and finally to the recommended steps.
+I was able to move from the homepage to a category, then to a topic, and finally to the recommended steps.
 
 **Problem noticed:**
 
-The prototype could use clearer navigation between the different pages.
+The navigation could be clearer when moving between the different screens.
 
 **Possible change:**
 
-Add clear Back buttons to the category and topic pages.
+Add clear Back buttons to the category and topic screens.
 
 ---
 
-# 7. Prototype Findings
+## 7. Prototype Findings
 
-### What worked well?
+### What Worked Well?
 
-* Users were able to select a category and find a topic.
-* The basic category → topic → information flow was easy to understand.
+- Users were able to select a category and find a topic.
+- The basic category-to-topic-to-information flow was understandable.
+- The prototype provided a starting point for organizing cybersecurity information.
 
-### What was confusing?
+### What Was Confusing?
 
-* Some category names were not immediately clear.
-* The recommended steps were not always easy to find.
+- Some category names were not immediately clear.
+- Recommended steps were not always easy to find.
+- Navigation between screens could be more obvious.
 
-### What should be changed?
+### What Should Be Changed?
 
-* Make category names clearer.
-* Make recommended steps more noticeable.
-* Add clearer navigation buttons.
+Based on the evaluation, CyberHelp should:
 
-### Changes to Make
+- Use simple and descriptive category names.
+- Add short descriptions to help users choose the right category.
+- Put recommended steps under a clearly labeled heading.
+- Add clear Back buttons.
+- Keep instructions short and easy to follow.
 
-Based on the prototype testing, CyberHelp should:
+### Changes to the Specification
 
-* Use simple and descriptive category names.
-* Put recommended steps under a clearly labeled heading.
-* Add clear Back buttons to make navigation easier.
-
----
-
-# 8. Prototype Images
-
-The prototype will include screenshots of the main screens:
-
-* `HomePage.jpeg`
-* `Category.jpeg`
-* `Problem.jpeg`
-* `Problemexplained.jpeg`
-* `helpchecklist.jpeg`
-
-These images will show the main interaction flow of CyberHelp.
+The research and prototype evaluation support adding clearer category descriptions, making recommended steps easier to locate, and improving navigation. These changes should be reflected in the CyberHelp specification and tested again during future evaluation.
 
 ---
 
-# 9. Research Conclusion
+## 8. Prototype Images
+
+The following screenshots document the main screens of the CyberHelp prototype.
+
+### 1. Homepage
+
+![CyberHelp Homepage](prototype/home.png)
+
+### 2. Category Page
+
+![CyberHelp Category Page](prototype/category.png)
+
+### 3. Problem Information
+
+![CyberHelp Problem Information](prototype/problem.png)
+
+### 4. Recommended Steps
+
+![CyberHelp Recommended Steps](prototype/steps.png)
+
+These screenshots should show the actual prototype running in the browser. The image files must be saved in the `docs/design/prototype/` folder using the filenames shown above.
+
+---
+
+## 9. Research Conclusion
 
 The research supports the original idea for CyberHelp. Existing cybersecurity websites provide useful information, but CyberHelp can focus on making that information easier for beginners to find and understand.
 
-The prototype testing showed that the basic category → topic → information flow works, but the categories and navigation could be clearer.
+The user research highlights the value of simple explanations, organized topics, and clear instructions. The prototype evaluation identifies improvements to category descriptions, recommended steps, and navigation.
 
-The specification will be updated based on the research and prototype findings.
+The next step is to incorporate these findings into the specification, verify the changes through testing, and prepare the final project report.
